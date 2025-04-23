@@ -18,7 +18,7 @@ Oyun, kullanıcının işaret parmağı ucunu takip eder ve parmak çöpe gelinc
 
  # Gereksinimler:
  Aşağıdaki kütüphaneler projede kullanılmaktadır:
- kütüphaneler ve yukarıdaki yazı da gereksinimlerin içine giriyor :)
+
 
 - mediapipe
 - opencv-python
