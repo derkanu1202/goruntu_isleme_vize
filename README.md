@@ -24,7 +24,7 @@ Oyun, kullanıcının işaret parmağı ucunu takip eder ve parmak çöpe gelinc
 - opencv-python
 - numpy
 
- #Kurulum :
+# Kurulum :
  
 bash
 python -m venv venv
